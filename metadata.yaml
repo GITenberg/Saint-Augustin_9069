@@ -1,0 +1,32 @@
+_repo: Saint-Augustin_9069
+contributor:
+  translator:
+    agent_name: O'Sullivan, Vincent
+    birthdate: 1872
+    deathdate: 1940
+    gutenberg_agent_id: '2964'
+    url: http://www.gutenberg.org/2009/agents/2964
+    wikipedia: http://en.wikipedia.org/wiki/Vincent_O%27Sullivan
+creator:
+  author:
+    agent_name: Bertrand, Louis
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '2963'
+    url: http://www.gutenberg.org/2009/agents/2963
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9069'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian saints -- Algeria -- Hippo (Extinct city) -- Biography'
+- !lcsh 'Augustine, Saint, Bishop of Hippo'
+- !lcc 'BR'
+title: Saint Augustin
+url: http://www.gutenberg.org/ebooks/9069
